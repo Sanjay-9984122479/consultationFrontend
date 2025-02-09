@@ -111,7 +111,7 @@ const Dashboard = () => {
       )}
 
       <Heading title="Select Slot" />
-      <SlotList slots={getFutureTimes(availableSlots)} selectedSlot={selectedSlot} handleSelect={setSelectedSlot} />
+      <SlotList slots={new Date(listOfDates?.[selectedDate]?.date) > new Date()? availableSlots: getFutureTimes(availableSlots)} selectedSlot={selectedSlot} handleSelect={setSelectedSlot} />
 
       <Heading title="Selected Date and Selected Slot" />
       <div className="font-bold text-blue-700">

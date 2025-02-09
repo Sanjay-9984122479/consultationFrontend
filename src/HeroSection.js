@@ -136,35 +136,35 @@ const HeroSection = () => {
                 </div>
                 <div className='w-full flex justify-center items-center mt-10'><div class="w-[565px] text-center text-[#fbfcfc] text-5xl font-normal font-['Inter'] leading-[57.60px]">Real Stories from Happy Customers</div></div>
                 <div className='w-full h-[650.86px] relative  grid grid-cols-1 px-20'>
-                    <div className="h-[113px] px-3 py-2 bg-[#292f3b] rounded-2xl shadow justify-self-start items-center gap-6 inline-flex md:ml-20 xs:ml-0">
+                    <div className="h-[123px] px-3 py-2 bg-[#292f3b] rounded-2xl shadow justify-self-start items-center gap-6 inline-flex md:ml-20 xs:ml-0">
                         <img className="w-16 h-[90px] rounded-lg" src={customer1} />
                         <div className="w-[313px] flex-col justify-start items-start gap-3 inline-flex">
                             <div><span className="text-white text-lg font-medium font-['Inter']">Mr. Amit Kashyap </span><span className="text-white text-sm font-medium font-['Inter']">(CEO, & MD)</span></div>
                             <div className="w-[313px] text-[#cfd0dc] text-base font-normal font-['Inter'] leading-tight block md:block xs:hidden ">I had an amazing experience with this online consultation platform. The doctor was very professional, listened to my concerns, and provided clear guidanc</div>
                         </div>
                     </div>
-                    <div className="h-[113px] px-3 py-2 bg-[#292f3b] rounded-2xl shadow justify-self-end  items-center gap-6 inline-flex">
+                    <div className="h-[123px] px-3 py-2 bg-[#292f3b] rounded-2xl shadow justify-self-end  items-center gap-6 inline-flex">
                         <img className="w-16 h-[90px] rounded-lg" src={customer2} />
                         <div className="w-[313px] flex-col justify-start items-start gap-3 inline-flex">
                             <div><span className="text-white text-lg font-medium font-['Inter']">Aman Bharti </span><span className="text-white text-sm font-medium font-['Inter']">(Administrator)</span></div>
                             <div className="w-[313px] text-[#cfd0dc] text-base font-normal font-['Inter'] leading-tight md:block xs:hidden ">I never thought consulting a doctor online could be this easy. The response time was quick, and the advice I received was spot-on.</div>
                         </div>
                     </div>
-                    <div className="h-[113px] px-3 py-2 bg-[#292f3b] rounded-2xl shadow justify-self-center items-center gap-6 inline-flex">
+                    <div className="h-[123px] px-3 py-2 bg-[#292f3b] rounded-2xl shadow justify-self-center items-center gap-6 inline-flex">
                         <img className="w-16 h-[90px] rounded-lg" src={customer1} />
                         <div className="w-[313px] flex-col justify-start items-start gap-3 inline-flex">
                             <div><span className="text-white text-lg font-medium font-['Inter']">Dr. R.S. Rao </span><span className="text-white text-sm font-medium font-['Inter']">(Govt. Teacher)</span></div>
                             <div className="w-[313px] text-[#cfd0dc] text-base font-normal font-['Inter'] leading-tight md:block xs:hidden ">I was hesitant about online consultations, but this platform proved me wrong. The doctor was very knowledgeable, and the consultation felt just as thorough as an in-person visit</div>
                         </div>
                     </div>
-                    <div className="h-[113px] px-3 py-2 bg-[#292f3b] rounded-2xl shadow justify-self-start items-center gap-6 inline-flex">
+                    <div className="h-[123px] px-3 py-2 bg-[#292f3b] rounded-2xl shadow justify-self-start items-center gap-6 inline-flex">
                         <img className="w-16 h-[90px] rounded-lg" src={customer3} />
                         <div className="w-[313px] flex-col justify-start items-start gap-3 inline-flex ">
                             <div><span className="text-white text-lg font-medium font-['Inter']"> Sonali pal </span><span className="text-white text-sm font-medium font-['Inter']">(Shopkeeper)</span></div>
                             <div className="w-[313px] text-[#cfd0dc] text-base font-normal font-['Inter'] leading-tight md:block xs:hidden ">As a working mom, finding time for a doctor’s appointment is tough. This online consultancy made it so much easier to get medical advice from the comfort of my home</div>
                         </div>
                     </div>
-                    <div class="h-[113px] px-3 py-2 bg-[#292f3b] rounded-2xl shadow justify-self-end items-center gap-6 inline-flex  md:mr-20 xs:mr-0 ">
+                    <div class="h-[123px] px-3 py-2 bg-[#292f3b] rounded-2xl shadow justify-self-end items-center gap-6 inline-flex  md:mr-20 xs:mr-0 ">
                         <img className="w-16 h-[90px] rounded-lg" src={customer4} />
                         <div className="w-[313px] flex-col justify-start items-start gap-3 inline-flex ">
                             <div><span className="text-white text-lg font-medium font-['Inter']"> Divya Tripathi </span><span className="text-white text-sm font-medium font-['Inter']">(Bussinesman)</span></div>
